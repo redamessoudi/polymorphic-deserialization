@@ -17,7 +17,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @author Reda Messoudi
  */
-// uncomment line below only if you don't want to use {@link com.redamessoudi.polydeserialization.config.DeserializationConfiguration.class}
+// uncomment line below only if you don't want to use {@link com.redamessoudi.polydeserialization.config.DeserializationConfiguration}
 // @JsonComponent
 public class PlayerDeserializer extends StdDeserializer<Player> {
 
